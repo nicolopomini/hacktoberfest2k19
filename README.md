@@ -2,4 +2,5 @@
 
 ### List of pull requests:
 
-* #1
+* 1
+* 2
